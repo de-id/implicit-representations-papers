@@ -1,6 +1,8 @@
 # Neural Networks for Implicit Representations-papers
 Papers club from the AI team in D-ID  - this time Neural Networks for Implicit Representations
 
+A really good explnantion on what are Neural Networks for Implicit Representations-papers and why are they intresting can be found in [awesome-implicit-representations](https://github.com/vsitzmann/awesome-implicit-representations)
+
 
 מועדון קריאת מאמרים שלנו - כל ההרצאות בעיברית
 | Lecture | Paper / Resource | Year | Why is it interesting? | Asignee | Recording | Presentation |
