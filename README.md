@@ -6,6 +6,7 @@ An implicit neural representations is a parameterization of a signal as a contin
 A really good explnantion on what are "Neural Networks for Implicit Representations" and why are they intresting can be found in [awesome-implicit-representations](https://github.com/vsitzmann/awesome-implicit-representations)
 
 [Neuralfields website](https://neuralfields.cs.brown.edu/index.html)
+
 מועדון קריאת מאמרים שלנו - כל ההרצאות בעיברית
 | Title | Paper / Resource | Year | Why is it interesting? | Asignee | Recording | Slides |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
