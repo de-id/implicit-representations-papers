@@ -1,7 +1,7 @@
 # Neural Networks for Implicit Representations-papers
 Papers club from the AI team in D-ID  - this time Neural Networks for Implicit Representations
 
-An implicit neural representations is a parameterization of a signal as a continuous function that maps the domain of the signal to the signal value, for example an image coordinate to the RGB value.
+An implicit neural representations is a parameterization of a signal as a continuous function that maps the domain of the signal to the signal value, for example an float image coordinate to the RGB value.
 
 A really good explnantion on what are "Neural Networks for Implicit Representations" and why are they intresting can be found in [awesome-implicit-representations](https://github.com/vsitzmann/awesome-implicit-representations)
 
